@@ -1,0 +1,79 @@
+ @import url('https://fonts.googleapis.com/css2?family=Sedgwick+Ave+Display&display=swap');
+ 
+
+{   
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+
+}
+
+header{
+    padding: 20px 10px;
+    max-width: 1000px;
+    margin: auto;
+    border: 5px solid rgb(32, 75, 124);
+    display: flex-center
+    
+}
+
+main { 
+    max-width: 1000px;
+    margin: auto;
+}
+
+ body {
+    font-family: 'Sedgwick Ave Display', cursive;
+ }
+
+ section {
+    padding: 40px 20px;
+ }
+
+h1 {
+    color: rgb(15, 15, 15);
+    margin-bottom: 20px;
+}
+
+h1 { 
+    text-align: center;
+
+}
+ header{background-color: rgb(88, 204, 194);
+ display: center; 
+ align-items: flex; 
+ justify-content:center;
+}
+ h2 {
+    color: rgb(85, 54, 136)}
+
+body{ background-color: rgb(164, 204, 228)}
+
+li , p {
+    line-height: 1.5 ;
+    color: darkblue;
+}
+
+button {
+width: 4em;
+height: 3.5em;
+background: rgb(148, 226, 59);
+border-radius: 15px;
+border: none
+cursor: pointer;
+padding: 1em;
+color: #ebfffb;
+font-size: 1.8em;
+transition: .2s ease all;
+
+}
+
+.final {background-color: rgb(88, 204, 194);
+
+        border: 5px solid rgb(32, 75, 124);
+        text-align: center;
+
+}
+
+
+/* excelente */
